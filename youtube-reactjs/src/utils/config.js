@@ -1,11 +1,11 @@
-// import REACT_APP_API_KEY from "./config2";
+ import REACT_APP_API_KEY from "./config2";
 
-// const API_KEY = "AIzaSyDkLpk0NbCvOoRGazBrzkV4FvQ0qk-ABzE";
+ const API_KEY = "AIzaSyDkLpk0NbCvOoRGazBrzkV4FvQ0qk-ABzE";
 
-// const YOUTUBE_API_KEY_TOP_50 =
-//   "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=" +
-// process.env.REACT_APP_API_KEY;
-// const API_KEY = "AIzaSyBPsE4Gw1EYFk5y0DzQsauafMt_zWsz38E";
+const YOUTUBE_API_KEY_TOP_50 =
+   "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=" +
+ process.env.REACT_APP_API_KEY;
+ const API_KEY = "AIzaSyBPsE4Gw1EYFk5y0DzQsauafMt_zWsz38E";
 
 const search_word = ""
 const YOUTUBE_API_KEY_TOP_50 =
